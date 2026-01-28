@@ -1,0 +1,12 @@
+{
+"companyName": "JoaoPisk",
+"productName": "PROJETO RJ",
+"dataUrl": "web 02 10 20.data.unityweb",
+"wasmCodeUrl": "web 02 10 20.wasm.code.unityweb",
+"wasmFrameworkUrl": "web 02 10 20.wasm.framework.unityweb",
+"TOTAL_MEMORY": 536870912,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
